@@ -2,9 +2,9 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./assets/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="../css/style.css" />
     <title>Shop Dashboard</title>
   </head>
   <body>
@@ -12,7 +12,7 @@
       <header class="shop-header">
         <h1>Dashboard</h1>
         <nav class="dashboard-nav">
-          <a href="./index.html" class="nav-link">Shop</a>
+          <a href="../index.php" class="nav-link">Shop</a>
         </nav>
       </header>
       <main class="dashboard-container">
@@ -26,6 +26,6 @@
         </div>
       </main>
     </div>
-    <script type="module" src="./script/dashboard.js"></script>
+    <script type="module" src="../script/dashboard.js"></script>
   </body>
 </html>

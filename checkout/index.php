@@ -2,16 +2,16 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="./assets/favicon.png" />
+    <link rel="icon" type="image/svg+xml" href="../assets/favicon.png" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="../css/style.css" />
     <title>Checkout</title>
   </head>
   <body>
     <div id="app">
       <header class="shop-header">
         <h1>Checkout</h1>
-        <a href="./index.html" class="back-to-shop">Back to Shop</a>
+        <a href="../index.php" class="back-to-shop">Back to Shop</a>
       </header>
       <main class="checkout-container">
         <div class="cart-summary">
@@ -55,6 +55,6 @@
         </div>
       </main>
     </div>
-    <script type="module" src="./script/checkout.js"></script>
+    <script type="module" src="../script/checkout.js"></script>
   </body>
 </html>

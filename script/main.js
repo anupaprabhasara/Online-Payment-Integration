@@ -81,7 +81,7 @@ function initShop() {
   // Make cart info clickable
   cartInfo.style.cursor = 'pointer';
   cartInfo.addEventListener('click', () => {
-    window.location.href = 'checkout.html';
+    window.location.href = './checkout/';
   });
   
   updateCartCount();

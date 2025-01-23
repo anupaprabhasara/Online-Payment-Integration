@@ -16,7 +16,7 @@
             <span>Cart: </span>
             <span id="cart-count">0</span> items
           </div>
-          <a href="./dashboard.html" class="nav-link">Dashboard</a>
+          <a href="./dashboard.php" class="nav-link">Dashboard</a>
         </div>
       </header>
       <main class="shop-container" id="shop-container">
