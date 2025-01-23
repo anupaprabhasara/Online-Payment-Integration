@@ -79,7 +79,7 @@ function initCheckout() {
     // Clear cart and show success message
     alert('Order placed successfully!');
     localStorage.removeItem('cart');
-    window.location.href = './dashboard/';
+    window.location.href = '../dashboard/';
   });
   
   updateCartDisplay();
